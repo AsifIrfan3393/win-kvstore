@@ -1,0 +1,4 @@
+C:/Users/Asif/OneDrive/Desktop/CPPproject/build/CMakeFiles/kvstore.dir
+C:/Users/Asif/OneDrive/Desktop/CPPproject/build/CMakeFiles/kvbench.dir
+C:/Users/Asif/OneDrive/Desktop/CPPproject/build/CMakeFiles/edit_cache.dir
+C:/Users/Asif/OneDrive/Desktop/CPPproject/build/CMakeFiles/rebuild_cache.dir
